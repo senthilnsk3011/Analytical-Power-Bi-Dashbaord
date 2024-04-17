@@ -1,4 +1,4 @@
-##HR Analytical##
+#HR Analytical#
 
 ![Screenshot 2024-04-17 012324](https://github.com/senthilnsk3011/Analytical-Power-Bi-Dashbaord/assets/40666655/48019c7d-69f5-43ef-bc11-0c017315fe9c)
 
